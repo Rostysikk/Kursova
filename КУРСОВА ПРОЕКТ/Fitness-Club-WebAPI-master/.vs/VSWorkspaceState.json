@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BLL.Tests",
+    "\\BLL.Tests\\Common",
+    "\\DataBase",
+    "\\DataBase\\Context",
+    "\\DataBase\\Entities",
+    "\\DataBase\\Options",
+    "\\Repository",
+    "\\UI.WebAPI"
+  ],
+  "SelectedNode": "\\UI.WebAPI\\FitnessContextDb.db",
+  "PreviewInSolutionExplorer": false
+}

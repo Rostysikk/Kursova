@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\database\\context\\fitnesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|solutionrelative:database\\context\\fitnesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\database\\entities\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|solutionrelative:database\\entities\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ADF017-7F42-4EF0-BA4C-F901BB9AB713}|BLL.Tests\\BLL.Tests.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\bll.tests\\workout\\commands\\addworkoutcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ADF017-7F42-4EF0-BA4C-F901BB9AB713}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\workout\\commands\\addworkoutcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8645ED4-8C3A-4C88-A0CA-42C6D9F11113}|UI.WebAPI\\UI.WebAPI.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\ui.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8645ED4-8C3A-4C88-A0CA-42C6D9F11113}|UI.WebAPI\\UI.WebAPI.csproj|solutionrelative:ui.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\database\\options\\dbcontextoptionsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|solutionrelative:database\\options\\dbcontextoptionsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F048F798-B16B-4EC0-A0A3-6716B19FE344}|DataBase\\DataBase.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ADF017-7F42-4EF0-BA4C-F901BB9AB713}|BLL.Tests\\BLL.Tests.csproj|c:\\users\\ctik2\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\\fitness-club-webapi-master\\bll.tests\\bll.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1ADF017-7F42-4EF0-BA4C-F901BB9AB713}|BLL.Tests\\BLL.Tests.csproj|solutionrelative:bll.tests\\bll.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Entities\\Workout.cs",
+              "RelativeDocumentMoniker": "DataBase\\Entities\\Workout.cs",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Entities\\Workout.cs",
+              "RelativeToolTip": "DataBase\\Entities\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:18:57.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddWorkoutCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\BLL.Tests\\Workout\\Commands\\AddWorkoutCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "BLL.Tests\\Workout\\Commands\\AddWorkoutCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\BLL.Tests\\Workout\\Commands\\AddWorkoutCommandHandlerTests.cs",
+              "RelativeToolTip": "BLL.Tests\\Workout\\Commands\\AddWorkoutCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:18:26.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\UI.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\UI.WebAPI\\appsettings.json",
+              "RelativeToolTip": "UI.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T14:50:43.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextOptionsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Options\\DbContextOptionsFactory.cs",
+              "RelativeDocumentMoniker": "DataBase\\Options\\DbContextOptionsFactory.cs",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Options\\DbContextOptionsFactory.cs",
+              "RelativeToolTip": "DataBase\\Options\\DbContextOptionsFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:30:42.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\DataBase.csproj",
+              "RelativeDocumentMoniker": "DataBase\\DataBase.csproj",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\DataBase.csproj",
+              "RelativeToolTip": "DataBase\\DataBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T14:28:26.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\BLL.Tests\\BLL.Tests.csproj",
+              "RelativeDocumentMoniker": "BLL.Tests\\BLL.Tests.csproj",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\BLL.Tests\\BLL.Tests.csproj",
+              "RelativeToolTip": "BLL.Tests\\BLL.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T14:23:24.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessContext.cs",
+              "DocumentMoniker": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Context\\FitnessContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\Context\\FitnessContext.cs",
+              "ToolTip": "C:\\Users\\ctik2\\Desktop\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410 \u041F\u0420\u041E\u0415\u041A\u0422\\Fitness-Club-WebAPI-master\\DataBase\\Context\\FitnessContext.cs",
+              "RelativeToolTip": "DataBase\\Context\\FitnessContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:10:47.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

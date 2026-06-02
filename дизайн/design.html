@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Fitness Admin Panel</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- SIDEBAR -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            <span>Fitness</span>Pro
+        </div>
+
+        <div class="menu">
+
+            <button class="tab-btn active" data-tab="clubs">
+                🏢 <span>Clubs</span>
+            </button>
+
+            <button class="tab-btn" data-tab="passes">
+                🎫 <span>Passes</span>
+            </button>
+
+            <button class="tab-btn" data-tab="members">
+                👥 <span>Members</span>
+            </button>
+
+            <button class="tab-btn" data-tab="workouts">
+                💪 <span>Workouts</span>
+            </button>
+
+        </div>
+
+    </aside>
+
+    <!-- MAIN -->
+
+    <main class="main">
+
+        <!-- HEADER -->
+
+        <div class="header">
+
+            <div>
+                <h1>Fitness Dashboard</h1>
+                <p>Система управління фітнес клубом</p>
+            </div>
+
+            <div class="header-actions">
+                <button class="header-btn">+ Add</button>
+                <button class="header-btn">Export</button>
+            </div>
+
+        </div>
+
+        <!-- STATS -->
+
+        <div class="stats">
+
+            <div class="stat-card">
+                <div class="stat-title">Clubs</div>
+                <div class="stat-number">4</div>
+                <div class="stat-text">+2 this month</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-title">Passes</div>
+                <div class="stat-number">8</div>
+                <div class="stat-text">+3 today</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-title">Members</div>
+                <div class="stat-number">128</div>
+                <div class="stat-text">All active</div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-title">Workouts</div>
+                <div class="stat-number">16</div>
+                <div class="stat-text">Today</div>
+            </div>
+
+        </div>
+
+        <!-- CLUBS -->
+
+        <section class="section active" id="clubs">
+
+            <div class="table-card">
+
+                <div class="table-top">
+
+                    <h2>Clubs</h2>
+
+                    <input
+                        type="text"
+                        class="search"
+                        placeholder="Пошук по ID, місту, назві..."
+                    >
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>City</th>
+                            <th>Address</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+                            <td>#4A00CE1D</td>
+                            <td>Sport Life</td>
+                            <td>Львів</td>
+                            <td>Євгена Коновала 27</td>
+                        </tr>
+
+                        <tr>
+                            <td>#D5FFF003</td>
+                            <td>Iron Gym</td>
+                            <td>Київ</td>
+                            <td>Борщагівська 22</td>
+                        </tr>
+
+                        <tr>
+                            <td>#5C6691B0</td>
+                            <td>Golden Gym</td>
+                            <td>Івано-Франківськ</td>
+                            <td>Незалежності 5</td>
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- PASSES -->
+
+        <section class="section" id="passes">
+
+            <div class="table-card">
+
+                <div class="table-top">
+
+                    <h2>Passes</h2>
+
+                    <input
+                        type="text"
+                        class="search"
+                        placeholder="Пошук..."
+                    >
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Visits</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+                            <td>#A124</td>
+                            <td>Standard</td>
+                            <td>1000 ₴</td>
+                            <td>12</td>
+                        </tr>
+
+                        <tr>
+                            <td>#B553</td>
+                            <td>Premium</td>
+                            <td>2500 ₴</td>
+                            <td>50</td>
+                        </tr>
+
+                        <tr>
+                            <td>#C918</td>
+                            <td>VIP</td>
+                            <td>5000 ₴</td>
+                            <td>∞</td>
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- MEMBERS -->
+
+        <section class="section" id="members">
+
+            <div class="table-card">
+
+                <div class="table-top">
+
+                    <h2>Members</h2>
+
+                    <input
+                        type="text"
+                        class="search"
+                        placeholder="Пошук..."
+                    >
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Surname</th>
+                            <th>Visits</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+                            <td>#111</td>
+                            <td>Ростислав</td>
+                            <td>Калишин</td>
+                            <td>12</td>
+                        </tr>
+
+                        <tr>
+                            <td>#222</td>
+                            <td>Ігор</td>
+                            <td>Коломойський</td>
+                            <td>20</td>
+                        </tr>
+
+                        <tr>
+                            <td>#333</td>
+                            <td>Ілля</td>
+                            <td>Парнак</td>
+                            <td>10</td>
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- WORKOUTS -->
+
+        <section class="section" id="workouts">
+
+            <div class="table-card">
+
+                <div class="table-top">
+
+                    <h2>Workouts</h2>
+
+                    <input
+                        type="text"
+                        class="search"
+                        placeholder="Пошук..."
+                    >
+
+                </div>
+
+                <div class="table-wrapper">
+
+                    <table>
+
+                        <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Workout</th>
+                            <th>Trainer</th>
+                            <th>Price</th>
+                        </tr>
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+                            <td>#W001</td>
+                            <td>Crossfit</td>
+                            <td>Олександр</td>
+                            <td>350 ₴</td>
+                        </tr>
+
+                        <tr>
+                            <td>#W002</td>
+                            <td>Yoga</td>
+                            <td>Анна</td>
+                            <td>100 ₴</td>
+                        </tr>
+
+                        <tr>
+                            <td>#W003</td>
+                            <td>Boxing</td>
+                            <td>Іван</td>
+                            <td>700 ₴</td>
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
